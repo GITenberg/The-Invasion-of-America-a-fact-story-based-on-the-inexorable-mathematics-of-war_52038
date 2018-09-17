@@ -1,0 +1,30 @@
+_repo: The-Invasion-of-America-a-fact-story-based-on-the-inexorable-mathematics-of-war_52038
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muller, J. W. (Julius Washington)
+    aliases:
+    - Muller, Julius W. (Julius Washington)
+    - Muller, Julius Washington
+    birthdate: 1867
+    deathdate: 1930
+    gutenberg_agent_id: '40897'
+    url: http://www.gutenberg.org/2009/agents/40897
+description: ''
+gutenberg_issued: '2016-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52038'
+  lccn: '16001771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Defenses'
+- !lcc 'UA'
+- !lcsh 'Imaginary wars and battles'
+- GITenberg
+title: 'The Invasion of America: a fact story based on the inexorable mathematics
+  of war'
+url: http://www.gutenberg.org/ebooks/52038
